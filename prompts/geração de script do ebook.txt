@@ -1,0 +1,88 @@
+transforme o seguinte texto em um ebook curto, bem diagramado e fácil de ler. a saída deve ser um arquivo .pdf com o ebook pronto.
+texto:
+ Desvendando o n8n em 3 Minutos
+
+E aí, gente! Sejam bem-vindos a
+mais um episódio rápido. Hoje, vamos desvendar uma ferramenta que
+está mudando o jogo da automação: o n8n.
+
+Se você está
+cansado de fazer tarefas repetitivas, o n8n é o seu novo melhor
+amigo. Pense nele como o canivete suíço da automação de fluxo de
+trabalho. É uma ferramenta de código aberto, o que já é um ponto
+positivo, que permite conectar quase todos os seus apps e serviços
+online, sem precisar ser um mestre da programação.
+
+Em apenas
+três minutos, vou te dar as 3 chaves de ouro para você começar a
+usar o n8n e, melhor ainda, fazer dinheiro com ele. Bora lá!
+
+DICA
+1: Os 3 Principais Usos e Recursos 
+
+Recursos-Chave: O coração
+do n8n são os Nodes – cada um é uma peça de quebra-cabeça para
+conectar serviços. A mágica acontece na interface visual de
+arrastar e soltar. O recurso Self-Hosted  dá total controle e
+privacidade aos seus dados, diferentemente de outros
+concorrentes.
+
+Qualquer coisa que você faça manualmente e
+precise de passos lógicos, o n8n pode fazer. Por exemplo:
+
+Capturar
+Leads: Receber um novo lead de um formulário (Node 1), adicionar ele
+a uma planilha do Google Sheets (Node 2) e enviar um email de
+boas-vindas personalizado (Node 3).
+
+Monitoramento: Se uma
+palavra-chave é mencionada no Twitter (Node 1), criar
+automaticamente um card no Trello para você acompanhar (Node 2).
+Simples assim!
+
+DICA 2: Ganhando Dinheiro com n8n 
+
+Foco no
+Serviço: Essa é a parte que interessa. A melhor forma de monetizar
+o n8n é oferecendo serviços de automação para pequenas e médias
+empresas que não têm tempo ou conhecimento para isso.
+
+Consultoria
+de Automação: Identifique processos manuais chatos nas empresas
+(como o exemplo do lead) e construa o workflow no n8n para elas. Como
+é código aberto, o custo é baixo e você cobra pelo seu
+conhecimento.
+
+Desenvolvimento de "Produtos" de
+Automação: Crie templates de automações que resolvam problemas
+comuns (e-commerce, marketing digital) e venda o template (o fluxo de
+trabalho) para múltiplos clientes.
+
+As Vantagem: Muitas empresas
+usam SaaS caros para automação; você pode oferecer soluções mais
+robustas e personalizadas no n8n por uma fração do preço.
+
+DICA
+3: O Segredo da Eficiência 
+
+O "Self-Correction" da
+IA: O segredo da eficiência no n8n é dominar a função de erro e
+retry. Use-o para que seus fluxos de trabalho consigam se
+auto-corrigir quando algo der errado.
+
+Sempre que um "Nó"
+puder falhar (por exemplo, um serviço online estar fora do ar),
+adicione um "Error Handling Node" para que a automação
+tente novamente ou envie um alerta para você. Isso garante que seus
+clientes tenham automações 24/7 sem falhas humanas, aumentando seu
+valor como prestador de serviços.
+
+Então, recapitulando: n8n é
+automação de código aberto com nós visuais. Use-o para conectar
+seus apps e simplificar tarefas. E, o mais importante, venda seu
+conhecimento construindo e mantendo automações eficientes para
+empresas.
+
+Se você quer parar de fazer o trabalho chato e
+começar a construir a fábrica de automação do futuro, o n8n é o
+caminho. É hora de automatizar a sua vida e o seu bolso!
